@@ -1,0 +1,182 @@
+{
+    "questions": [
+      {
+        "category": "Animal",
+        "questions": [
+          {
+            "question": "I am an animal known for my black and white stripes, but I am not a tiger. What am I?",
+            "answer": "Zebra"
+          },
+          {
+            "question": "I can change color and blend into my surroundings, but I am not a chameleon. What am I?",
+            "answer": "Octopus"
+          },
+          {
+            "question": "I have a long neck and legs, but I am not a horse. What am I?",
+            "answer": "Giraffe"
+          },
+          {
+            "question": "I am known for my ability to mimic human speech, but I am not a human. What am I?",
+            "answer": "Parrot"
+          },
+          {
+            "question": "I live in the Arctic, am white, and I am not a seal. What am I?",
+            "answer": "Polar Bear"
+          },
+          {
+            "question": "I am a small insect known for my ability to jump high, but I am not a flea. What am I?",
+            "answer": "Grasshopper"
+          },
+          {
+            "question": "I am known for my wisdom and I hoot at night. What am I?",
+            "answer": "Owl"
+          },
+          {
+            "question": "I am a flightless bird from New Zealand, but I am not a penguin. What am I?",
+            "answer": "Kiwi"
+          },
+          {
+            "question": "I am known for my ability to spin webs, but I am not a spider. What am I?",
+            "answer": "Spider"
+          },
+          {
+            "question": "I am a large sea mammal known for my tusks, but I am not a whale. What am I?",
+            "answer": "Walrus"
+          }
+        ]
+      },
+      {
+        "category": "Technology",
+        "questions": [
+          {
+            "question": "I am a device that lets you connect to the internet without using cables. What am I?",
+            "answer": "Wi-Fi"
+          },
+          {
+            "question": "I am a company known for its search engine and not its social media platform. What am I?",
+            "answer": "Google"
+          },
+          {
+            "question": "I am a portable device used to read e-books, but I am not a tablet. What am I?",
+            "answer": "E-reader"
+          },
+          {
+            "question": "I am a software application used for making phone calls over the internet, but I am not a cell phone. What am I?",
+            "answer": "VoIP"
+          },
+          {
+            "question": "I am a type of computer storage that uses flash memory and is known for being small and portable. What am I?",
+            "answer": "USB Drive"
+          },
+          {
+            "question": "I am a company known for its operating systems, but I am not Linux. What am I?",
+            "answer": "Microsoft"
+          },
+          {
+            "question": "I am an electronic device used to measure time, but I am not a clock. What am I?",
+            "answer": "Watch"
+          },
+          {
+            "question": "I am a common internet tool used to navigate to websites, but I am not a search engine. What am I?",
+            "answer": "Browser"
+          },
+          {
+            "question": "I am a high-tech device used for gaming and entertainment, often featuring powerful graphics. What am I?",
+            "answer": "Gaming Console"
+          },
+          {
+            "question": "I am a popular social media platform for sharing photos, but I am not Facebook. What am I?",
+            "answer": "Instagram"
+          }
+        ]
+      },
+      {
+        "category": "Nature",
+        "questions": [
+          {
+            "question": "I am a large body of saltwater surrounded by land, but I am not a lake. What am I?",
+            "answer": "Ocean"
+          },
+          {
+            "question": "I am a large, flat expanse of grassland, often found in North America. What am I?",
+            "answer": "Prairie"
+          },
+          {
+            "question": "I am a high, rocky area that rises abruptly from the surrounding land, but I am not a hill. What am I?",
+            "answer": "Mountain"
+          },
+          {
+            "question": "I am a phenomenon where water vapor turns into ice crystals and falls from the sky, but I am not rain. What am I?",
+            "answer": "Snow"
+          },
+          {
+            "question": "I am a natural source of light seen in the night sky, but I am not a star. What am I?",
+            "answer": "Moon"
+          },
+          {
+            "question": "I am a type of forest characterized by high rainfall and diverse plant life, but I am not a desert. What am I?",
+            "answer": "Rainforest"
+          },
+          {
+            "question": "I am a natural, flowing watercourse, but I am not an ocean or lake. What am I?",
+            "answer": "River"
+          },
+          {
+            "question": "I am a large natural lake in Africa, but I am not Lake Victoria. What am I?",
+            "answer": "Lake Tanganyika"
+          },
+          {
+            "question": "I am a type of rock formed from volcanic lava, but I am not sedimentary rock. What am I?",
+            "answer": "Igneous Rock"
+          },
+          {
+            "question": "I am a natural hot spring with a colorful, mineral-rich water basin, but I am not a geyser. What am I?",
+            "answer": "Hot Spring"
+          }
+        ]
+      },
+      {
+        "category": "Stationery",
+        "questions": [
+          {
+            "question": "I am a writing instrument that uses ink and is often found in a desk drawer, but I am not a pencil. What am I?",
+            "answer": "Pen"
+          },
+          {
+            "question": "I am used to correct mistakes made with ink, but I am not a correction fluid. What am I?",
+            "answer": "Eraser"
+          },
+          {
+            "question": "I am a small, adhesive square used to mark pages or notes, but I am not a paperclip. What am I?",
+            "answer": "Sticky Note"
+          },
+          {
+            "question": "I am a tool used to fasten papers together, but I am not a stapler. What am I?",
+            "answer": "Paperclip"
+          },
+          {
+            "question": "I am used to bind sheets of paper into a book, but I am not a spiral binder. What am I?",
+            "answer": "Saddle Stitch"
+          },
+          {
+            "question": "I am a board used to display documents and can be used for presentations, but I am not a whiteboard. What am I?",
+            "answer": "Corkboard"
+          },
+          {
+            "question": "I am used to draw or measure angles and am not a ruler. What am I?",
+            "answer": "Protractor"
+          },
+          {
+            "question": "I am a large book used for writing or drawing, but I am not a notebook. What am I?",
+            "answer": "Sketchbook"
+          },
+          {
+            "question": "I am a writing tool that uses graphite and can be sharpened, but I am not a pen. What am I?",
+            "answer": "Pencil"
+          },
+          {
+            "question": "I am a type of adhesive used to stick paper together, but I am not tape. What am I?",
+            "answer": "Glue"
+          }
+        ]
+      }]}
